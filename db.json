@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "email": "johndoe@mail.me",
+      "password": "$2a$10$sp8m0057jR7ePDQH/d1QYeKCrkGxSSXdffEnQ19E6aFsP2UkZSPiK",
+      "id": 1
+    },
+    {
+      "email": "kevindurant@mail.him",
+      "password": "$2a$10$n8RdADacmEgBAJVIqoLW7uIBmjnY/SV2zZTzKrfGgwfjhgR48l3.y",
+      "id": 2
+    }
+  ]
+}
